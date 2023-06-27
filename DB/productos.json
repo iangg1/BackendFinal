@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Zenitsu ",
+        "price": "20000",
+        "description": "Figura de Zenitsu de Demon Slayer de 20cm",
+        "photoUrl": "https://www.sideshow.com/cdn-cgi/image/height=850,quality=90,f=auto/https://www.sideshow.com/storage/product-images/910900/zenitsu-agatsuma-thunderclap-and-flash_dc-comics_gallery_6254c093c87ef.jpg",
+        "stock": "2",
+        "code": "4123",
+        "timestamp": "27/6/2023, 17:43:46",
+        "id": "2"
+    },
+    {
+        "name": "Loid Forger",
+        "price": "50000",
+        "description": "Figura de Loid Forger de Spy x Family de 40cm",
+        "photoUrl": "https://img.goodsmileus.com/image/cache/data/productimages/ScaleFigures/SPY%C3%97FAMILY_LoidForger/00_2207151023368901-1200x1200.jpg",
+        "stock": "5",
+        "code": "4444",
+        "timestamp": "27/6/2023, 17:43:31",
+        "id": 4
+    },
+    {
+        "name": "Asta ",
+        "price": "15000",
+        "description": "Figura de Asta de Black Clover de 15cms",
+        "photoUrl": "https://m.media-amazon.com/images/I/71qXq0PDk8L._AC_SL1500_.jpg",
+        "stock": "23",
+        "code": "23134",
+        "timestamp": "27/6/2023, 17:45:32",
+        "id": 3
+    },
+    {
+        "name": "Worick Arcangelo",
+        "price": "150000",
+        "description": "Figura de Worick Arcangelo de Gansta de 41cms",
+        "photoUrl": "https://i.pinimg.com/originals/13/ad/0e/13ad0e82de194e8e134eb9d98bc5f72b.jpg",
+        "stock": "1",
+        "code": "23134",
+        "timestamp": "27/6/2023, 17:48:10",
+        "id": 4
+    }
+]
